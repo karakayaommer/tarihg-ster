@@ -1,0 +1,10 @@
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\bin\Debug\TarihGöster.exe.config
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\bin\Debug\TarihGöster.exe
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\bin\Debug\TarihGöster.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.csproj.AssemblyReference.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.Form1.resources
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.Properties.Resources.resources
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.csproj.GenerateResource.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.csproj.CoreCompileInputs.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.exe
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\TarihGöster\TarihGöster\obj\Debug\TarihGöster.pdb
